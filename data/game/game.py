@@ -648,7 +648,7 @@ def run():
             # update screen
             pygame.display.update()
             # wait before next run
-            FPS_CLOCK.tick()
-            print(FPS_CLOCK)
+            FPS_CLOCK.tick(FPS)
+            #print(FPS_CLOCK)
 
 
