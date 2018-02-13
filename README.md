@@ -34,20 +34,20 @@ Installation
 Python3 and pygame is needed to play this game.
 
 Linux installation:
-	`sudo apt-get install python3 python3-pygame`
-	run game by typing (might need sudo):
-		`python3 dizzle.py`
-		
-	ps. to be able to run the game, you need to be in the Dizzle folder
+`sudo apt-get install python3 python3-pygame`
+run game by typing (might need sudo):
+`python3 dizzle.py`
+
+ps. to be able to run the game, you need to be in the Dizzle folder
 
 Windows installation:
-	Install python3 from website http://python.org
-	Add python3 to environment variables eighter by selecting the option during installation or:
-		Right click computer -> Properties -> Advances system settings -> Environment Variables
-		Under System variables find Path, click Edit
-		Add python3 to the end, something like this:
-		;C:\Python34
-		Click Ok -> Ok -> Ok
+- Install python3 from website http://python.org
+- Add python3 to environment variables eighter by selecting the option during installation or:
+- Right click computer -> Properties -> Advances system settings -> Environment Variables
+- Under System variables find Path, click Edit
+- Add python3 to the end, something like this:
+- ;C:\Python34
+- Click Ok -> Ok -> Ok
 	open cmd (windows+r, then type cmd)
 	write:
 		python3 -m pip install -U pip			# this updates pip, the package manager for python
