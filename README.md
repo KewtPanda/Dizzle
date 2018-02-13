@@ -29,8 +29,8 @@ Music:
 	- M: mute (pause) song
 	
 
-Installation
-------------
+###Installation
+
 Python3 and pygame is needed to play this game.
 
 Linux installation:
