@@ -5,38 +5,38 @@ This is a breakout clone that I made in order to teach
 myself about python, pygame, and game development.
 
 Keyboard controls for the game:
-Menu:
+- Menu:
 	- Arrows: move selected menu item
 	- Return: goto selected menu item
 	- ESC: return to main menu or exit game
-Game: 
+- Game: 
 	- Pause/break: pauses the game
-		- Return while paused: options menu
+	- Return while paused: options menu
 	- ESC: Click 3-4 times to quit to highscore menu
 	- Q or C: Close the game
-Ball:
+- Ball:
 	- N: normal ball
 	- E: explosion ball
 	- L: laser ball
 	- P: plasma ball (currently the same as exposion ball)
 	- S: snap to paddle
-Level:
+- Level:
 	- Z: previous level
 	- X: next level
-Music:
+- Music:
 	- V: previous song
 	- B: next song
 	- M: mute (pause) song
 	
 
-### Installation
-
+Installation
+------------
 Python3 and pygame is needed to play this game.
 
 Linux installation:
-	sudo apt-get install python3 python3-pygame
+	`sudo apt-get install python3 python3-pygame`
 	run game by typing (might need sudo):
-		python3 dizzle.py
+		`python3 dizzle.py`
 		
 	ps. to be able to run the game, you need to be in the Dizzle folder
 
