@@ -71,12 +71,13 @@ How to make a new level:
 - Type desired filename (See how to name the file above)
 - Click Save
 
-		ps. The editor can be a bit buggy.
-		Opening a level and editing it might not work always.
-		Also clicking new level might not work as intended.
-		To be safe, open the editor,
-		edit the clean level that opened,
-		save the new level with save as,
-		if you want to create a new level,
-		restart the editor and do the same as before.
-
+```
+ps. The editor can be a bit buggy.
+Opening a level and editing it might not work always.
+Also clicking new level might not work as intended.
+To be safe, open the editor,
+edit the clean level that opened,
+save the new level with save as,
+if you want to create a new level,
+restart the editor and do the same as before.
+```
