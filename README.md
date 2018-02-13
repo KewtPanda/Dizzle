@@ -48,14 +48,13 @@ Windows installation:
 - Add python3 to the end, something like this:
 - ;C:\Python34
 - Click Ok -> Ok -> Ok
-	open cmd (windows+r, then type cmd)
-	write:
-		python3 -m pip install -U pip			# this updates pip, the package manager for python
-		python3 -m pip install pygame --user	# this install pygame
-	run game from cmd:
-		python3 dizzle.py
-	click dizzle.py to start game without cmd
-	
+- open cmd (windows+r, then type cmd)
+	- write:
+		`python3 -m pip install -U pip` # this updates pip, the package manager for python
+		`python3 -m pip install pygame --user` # this install pygame
+	- run game from cmd:
+		`python3 dizzle.py`
+	- click dizzle.py to start game without cmd
 	ps. the command in cmd for running python commands might be python instead of python3
 	
 Level Editor
